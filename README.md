@@ -1,2 +1,2 @@
 # Job-Portal-frontend
-This is a Job Portal frontend website
+This is a Job Portal frontend website.
